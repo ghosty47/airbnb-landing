@@ -3,14 +3,9 @@ import Box from '@mui/material/Box';
 import MobileStepper from '@mui/material/MobileStepper';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
-
-// mui icons
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
-// 3rd party
 import SwipeableViews from 'react-swipeable-views';
-
-// react icons
 import { AiFillStar } from 'react-icons/ai';
 import { FaRegHeart } from 'react-icons/fa';
 import {
@@ -26,18 +21,18 @@ import './CarouselCard.css';
 const CarouselCard = ({ location }) => {
   const [activeStep, setActiveStep] = React.useState(0);
 
-  const maxSteps = location.locationImages.length; // so that we know how many dots
+  const maxSteps = location.locationImages.length;
 
   const handleNext = () => {
-    setActiveStep((prevActiveStep) => prevActiveStep + 1); // jumps when we click the next arrow
+    setActiveStep((prevActiveStep) => prevActiveStep + 1);
   };
 
   const handleBack = () => {
-    setActiveStep((prevActiveStep) => prevActiveStep - 1); // when we click the back arrow
+    setActiveStep((prevActiveStep) => prevActiveStep - 1);
   };
 
   const handleStepChange = (step) => {
-    setActiveStep(step); // handle swipe change
+    setActiveStep(step);
   };
   return (
     <Box
@@ -105,6 +100,7 @@ const CarouselCard = ({ location }) => {
       <Box sx={flexBetween}>
         <Box sx={{ mt: 2 }}>
           <Typography component="h3"> {location.location}</Typography>
+          <Typography component="h3"> {location.agent}</Typography>
           <Typography component="h4"> {location.days}</Typography>
           <Typography component="h5"> {location.price}</Typography>
         </Box>

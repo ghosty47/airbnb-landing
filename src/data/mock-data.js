@@ -50,24 +50,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1600240644455-3edc55c375fe?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/11701153/pexels-photo-11701153.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1653408400816-af6dba0c9432?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/11701108/pexels-photo-11701108.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1653312727964-736f11663ef6?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/11701155/pexels-photo-11701155.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1629447236132-22c57cd0f0bf?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/11701151/pexels-photo-11701151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/11701123/pexels-photo-11701123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Gardon Reveira, Italy',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by fola',
     days: 'Oct 2-9',
-    price: '$14,999 CAD night',
+    price: '$10,999 night',
     isNew: true,
     rating: 4.5,
   },
@@ -76,24 +81,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/1571452/pexels-photo-1571452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/1571448/pexels-photo-1571448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/1571449/pexels-photo-1571449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/1131828/pexels-photo-1131828.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/1571451/pexels-photo-1571451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Joshua tree, USA',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by yemi',
     days: 'Sep 2-11',
-    price: '$3000 CAD night',
+    price: '$3000 night',
     isNew: false,
     rating: 4.99,
   },
@@ -102,24 +113,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/1329711/pexels-photo-1329711.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/14465275/pexels-photo-14465275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/13569906/pexels-photo-13569906.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/545012/pexels-photo-545012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Uvita rosa, Costa Rica',
+    location: 'Abuja, Nigeria',
+    agent: 'Hosted by yinka',
     days: 'Nov 19-22',
-    price: '$1,129 CAD night',
+    price: '$16 night',
     isNew: true,
     rating: 4.6,
   },
@@ -128,24 +145,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/210552/pexels-photo-210552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1475113548554-5a36f1f523d6?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/3747082/pexels-photo-3747082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/2747901/pexels-photo-2747901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1505144808419-1957a94ca61e?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/2507014/pexels-photo-2507014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/2082095/pexels-photo-2082095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Navidad, Chile',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by yinka',
     days: 'Sep 13-18',
-    price: '$208 CAD night',
+    price: '$34 night',
     isNew: false,
     rating: 4.2,
   },
@@ -154,24 +177,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1647891940243-77a6483a152e?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/261045/pexels-photo-261045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1587502537104-aac10f5fb6f7?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/1571461/pexels-photo-1571461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1587502537815-0c8b5c9ba39a?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/6707628/pexels-photo-6707628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/3712597/pexels-photo-3712597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Paraty, Brazil',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by beatrice',
     days: 'Aug 1-6',
-    price: '$243 CAD night',
+    price: '$143 night',
     isNew: true,
     rating: 4.1,
   },
@@ -180,24 +209,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/3773582/pexels-photo-3773582.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1470770903676-69b98201ea1c?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/3773576/pexels-photo-3773576.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/3773584/pexels-photo-3773584.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1503614472-8c93d56e92ce?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/1652423/pexels-photo-1652423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/4112237/pexels-photo-4112237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Raelington, Norway',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by yetunde',
     days: 'Oct 9-15',
-    price: '$698 CAD night',
+    price: '$64 night',
     isNew: false,
     rating: 4.6,
   },
@@ -206,24 +241,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1504567961542-e24d9439a724?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8082301/pexels-photo-8082301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1499002238440-d264edd596ec?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8082304/pexels-photo-8082304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8082308/pexels-photo-8082308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1462216589242-9e3e00a47a48?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8082309/pexels-photo-8082309.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8082195/pexels-photo-8082195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Terrasini, Italy',
+    location: 'Abuja, Nigeria',
+    agent: 'Hosted by muhammed',
     days: 'June 7-12',
-    price: '$467 CAD night',
+    price: '$46 night',
     isNew: true,
     rating: 4.7,
   },
@@ -232,24 +273,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1523528283115-9bf9b1699245?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8082203/pexels-photo-8082203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1516205651411-aef33a44f7c2?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8082197/pexels-photo-8082197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1496256654245-8f3d0ef3bebe?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8082202/pexels-photo-8082202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1504392022767-a8fc0771f239?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8082205/pexels-photo-8082205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8082204/pexels-photo-8082204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'San Jose, Mexico',
+    location: 'Abuja, Nigeria',
+    agent: 'Hosted by yinka',
     days: 'Jun 11-16',
-    price: '$1,767 CAD night',
+    price: '$17 night',
     isNew: false,
     rating: 4.8,
   },
@@ -258,24 +305,30 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8135114/pexels-photo-8135114.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1600240644455-3edc55c375fe?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8135112/pexels-photo-8135112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8135107/pexels-photo-8135107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1486912500284-6f2462ba07ea?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8135120/pexels-photo-8135120.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8135113/pexels-photo-8135113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Tulum, Mexico',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by fola',
     days: 'Jul 1-6',
-    price: '$910 CAD night',
+    price: '$91 night',
     isNew: true,
     rating: 4.3,
   },
@@ -284,102 +337,128 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1518593929011-2b5ef6be57c7?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089158/pexels-photo-8089158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089166/pexels-photo-8089166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1526137844794-45f1041f397a?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8089156/pexels-photo-8089156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1476209446441-5ad72f223207?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089089/pexels-photo-8089089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8089092/pexels-photo-8089092.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1S',
       },
     ],
-    location: 'Inglis, Canada',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by peter',
     days: 'Jun 12-18',
-    price: '$629 CAD night',
+    price: '$62 night',
     isNew: false,
     rating: 4.6,
   },
+  
   {
     id: 11,
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1458966480358-a0ac42de0a7a?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8092163/pexels-photo-8092163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1531756716853-09a60d38d820?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8092169/pexels-photo-8092169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8092188/pexels-photo-8092188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8092172/pexels-photo-8092172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8092173/pexels-photo-8092173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Jenner, California',
-    days: 'Nov 2-7',
-    price: '$2,595 CAD night',
+    location: 'Abuja, Nigeria',
+    agent: 'Hosted by samuel',
+    days: 'Jun 3-4',
+    price: '$44 night',
     isNew: false,
-    rating: 4.1,
+    rating: 4.2,
   },
+
   {
     id: 12,
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1526336179256-1347bdb255ee?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089258/pexels-photo-8089258.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1477511801984-4ad318ed9846?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089257/pexels-photo-8089257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1564574662330-73fb2940ff5d?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8089272/pexels-photo-8089272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1564415637254-92c66292cd64?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089260/pexels-photo-8089260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8089265/pexels-photo-8089265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Malibu, US',
-    days: 'Jun 3-4',
-    price: '$4,467 CAD night',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by mercy',
+    days: 'Nov 2-7',
+    price: '$25 night',
     isNew: false,
-    rating: 4.2,
+    rating: 4.1,
   },
+
   {
     id: 13,
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8143697/pexels-photo-8143697.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1517639493569-5666a7b2f494?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8143699/pexels-photo-8143699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1605708896118-957f660c1555?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8143710/pexels-photo-8143710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1497449493050-aad1e7cad165?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8143700/pexels-photo-8143700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8143706/pexels-photo-8143706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Bolzano, Italy',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by tunde',
     days: 'Sep 22-25',
-    price: '$358 CAD night',
+    price: '$35 night',
     isNew: true,
     rating: 4.5,
   },
@@ -388,24 +467,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8143704/pexels-photo-8143704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1494548162494-384bba4ab999?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8143711/pexels-photo-8143711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1445262102387-5fbb30a5e59d?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8143719/pexels-photo-8143719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1533387520709-752d83de3630?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7018253/pexels-photo-7018253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 4,
+        url: 'https://images.pexels.com/photos/8143696/pexels-photo-8143696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Hawaii, US',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by amarachi',
     days: 'Nov 4-10',
-    price: '$777 CAD night',
+    price: '$77 night',
     isNew: true,
     rating: 4.8,
   },
@@ -414,24 +498,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1542856391-010fb87dcfed?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8142046/pexels-photo-8142046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8142051/pexels-photo-8142051.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1544892504-5a42d285ab6f?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8142050/pexels-photo-8142050.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7511695/pexels-photo-7511695.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8142048/pexels-photo-8142048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Lagos, Portugal',
+    location: 'Abuja, Nigeria',
+    agent: 'Hosted by chinonso',
     days: 'Sep 25-Oct 2',
-    price: '$2,999 CAD night',
+    price: '$29 night',
     isNew: true,
     rating: 4.88,
   },
@@ -440,24 +529,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1504870712357-65ea720d6078?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8134818/pexels-photo-8134818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1502472584811-0a2f2feb8968?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8134823/pexels-photo-8134823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1535463731090-e34f4b5098c5?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8134822/pexels-photo-8134822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1495571758719-6ec1e876d6ae?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8134772/pexels-photo-8134772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8134817/pexels-photo-8134817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'LunenBurg, Canada',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by comfort',
     days: 'Oct 4-9',
-    price: '$500 CAD night',
+    price: '$50 night',
     isNew: false,
     rating: 4.2,
   },
@@ -466,24 +560,33 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8092435/pexels-photo-8092435.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
+
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1446034295857-c39f8844fad4?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8092433/pexels-photo-8092433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
+
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1504803900752-c2051699d0e8?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8092434/pexels-photo-8092434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
+
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1528184039930-bd03972bd974?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8092426/pexels-photo-8092426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8092424/pexels-photo-8092424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Santa Rosa, US',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by idara',
     days: 'Jun 2-9',
-    price: '$3,369 CAD night',
+    price: '$33 night',
     isNew: false,
     rating: 4.1,
   },
@@ -492,24 +595,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1465147264724-326b45c3c59b?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089086/pexels-photo-8089086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089085/pexels-photo-8089085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/8089088/pexels-photo-8089088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1562095241-8c6714fd4178?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/8089074/pexels-photo-8089074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/8082563/pexels-photo-8082563.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Carlux, France',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by michelle',
     days: 'Oct 28-Nov 4',
-    price: '$2511 CAD night',
+    price: '$25 night',
     isNew: true,
     rating: 4.5,
   },
@@ -518,24 +626,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1501786223405-6d024d7c3b8d?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7746941/pexels-photo-7746941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1510525009512-ad7fc13eefab?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7746937/pexels-photo-7746937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1485067801970-70573e3f77d0?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/7746951/pexels-photo-7746951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7746942/pexels-photo-7746942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/7746946/pexels-photo-7746946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Palm desert, US',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by christian',
     days: 'Jun 11-16',
-    price: '$3200 CAD night',
+    price: '$32 night',
     isNew: true,
     rating: 4.7,
   },
@@ -544,24 +657,29 @@ export const locations = [
     locationImages: [
       {
         id: 1,
-        url: 'https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7746642/pexels-photo-7746642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 2,
-        url: 'https://images.unsplash.com/photo-1524338198850-8a2ff63aaceb?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7746645/pexels-photo-7746645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
-        url: 'https://images.unsplash.com/photo-1494280986787-c49b328829dd?auto=format&fit=crop&w=400&h=250&q=80',
+        url: 'https://images.pexels.com/photos/7746571/pexels-photo-7746571.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load',
       },
       {
         id: 4,
-        url: 'https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&w=400&h=250&q=60',
+        url: 'https://images.pexels.com/photos/7746655/pexels-photo-7746655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+      {
+        id: 5,
+        url: 'https://images.pexels.com/photos/7746653/pexels-photo-7746653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
     ],
-    location: 'Ressaca, Brazil',
+    location: 'Lagos, Nigeria',
+    agent: 'Hosted by john',
     days: 'Oct 2-9',
-    price: '$14,999 CAD night',
+    price: '$14 night',
     isNew: false,
     rating: 4.5,
   },
