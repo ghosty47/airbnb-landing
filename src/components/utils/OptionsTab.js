@@ -4,7 +4,6 @@ import Tabs, { tabsClasses } from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
-// react icons
 import { FaFilter } from 'react-icons/fa';
 import { locationsTab } from 'data/mock-data';
 

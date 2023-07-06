@@ -5,7 +5,6 @@ import Link from '@mui/material/Link';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
-// react icons
 import { BsGlobe } from 'react-icons/bs';
 import { IoChevronUpOutline } from 'react-icons/io5';
 
@@ -39,7 +38,7 @@ const Footer = () => {
         >
           <Stack>
             <Paper>
-              <Link href="#"> 2022 Airbnb Copyright </Link>
+              <Link href="#"> 2023 Airbnb Copyright </Link>
             </Paper>
             {footerLinks.map((link) => {
               return (
@@ -56,9 +55,9 @@ const Footer = () => {
                 <Box sx={{ ...justifyCenter, mr: 1 }}>
                   <BsGlobe size={24} />
                 </Box>
-                English (CA)
+                English (UK)
               </Button>
-              <Button> $CAD </Button>
+              <Button> $US </Button>
               <Button>
                 Support & Resources
                 <Box sx={{ ...justifyCenter, ml: 1 }}>

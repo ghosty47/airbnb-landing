@@ -23,15 +23,15 @@ const MobileFooter = () => {
           <Box sx={{ ...justifyCenter, mr: 1 }}>
             <BsGlobe size={24} />
           </Box>
-          English ( CA )
+          English ( UK )
         </Button>
 
-        <Button> $ CAD </Button>
+        <Button> $ US </Button>
       </Paper>
 
       <Stack sx={{ mt: 2 }}>
         <Paper>
-          <Link href="#"> 2022 AirBnB copyright Inc</Link>
+          <Link href="#"> 2023 AirBnB copyright Inc</Link>
         </Paper>
       </Stack>
       <Stack sx={{ mt: 2 }}>
