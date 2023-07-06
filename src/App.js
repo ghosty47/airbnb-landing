@@ -1,13 +1,13 @@
 import Box from '@mui/material/Box';
 import CssBaseline from '@mui/material/CssBaseline';
-import Header from 'components/Header';
+import Header from 'components/header/Header';
 import OptionsTab from 'components/OptionsTab';
 import Container from '@mui/material/Container';
-import LocationCards from 'components/LocationCards';
+import LocationCards from 'components/location/LocationCards';
 import React from 'react';
 import './App.css';
-import Footer from 'components/Footer';
-import FooterMenu from 'components/FooterMenu';
+import Footer from 'components/footer/Footer';
+import FooterMenu from 'components/footer/FooterMenu';
 import { displayOnDesktop } from 'themes/commonStyles';
 import MobileFooter from 'components/MobileFooter';
 

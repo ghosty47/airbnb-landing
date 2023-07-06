@@ -2,15 +2,15 @@ import React from 'react';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 // components
-import Logo from './Logo';
-import LocationSearch from './LocationSearch';
+import Logo from '../Logo';
+import LocationSearch from '../LocationSearch';
 import {
   flexBetweenCenter,
   dFlex,
   displayOnDesktop,
 } from 'themes/commonStyles';
-import ProfileSettings from './ProfileSettings';
-import MobileSearch from './MobileSearch';
+import ProfileSettings from '../ProfileSettings';
+import MobileSearch from '../MobileSearch';
 
 const Header = () => {
   return (
