@@ -1,4 +1,3 @@
-/** Flexbox styles */
 
 export const flexBetween = {
   display: 'flex',
