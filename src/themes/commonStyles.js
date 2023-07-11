@@ -38,17 +38,15 @@ export const dFlex = {
 
 export const fixedBottom = {
   position: 'absolute',
-  bottom: 100,
+  bottom: 120,
   width: '100%',
 };
 
 export const displayOnDesktop = { display: { xs: 'none', md: 'block' } };
 
-/** Custom carousel styles */
-
 export const carouselDot = {
-  color: '#fff',
-  backgroundColor: '#000',
+  color: '#000',
+  backgroundColor: '#fff',
   opacity: 0.5,
   borderRadius: 10,
   p: 1,
